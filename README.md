@@ -1,5 +1,5 @@
 # Docker-Ynov
 
-Membre :
+Membres :
 - Marvin Gomes Vitorino
 - Faouizi Mzebla
